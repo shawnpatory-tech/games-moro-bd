@@ -1,0 +1,8 @@
+{
+  "name": "Remix GAMES MORO BD - Esports Tournament Management",
+  "description": "Production-grade Android-first esports tournament platform for competitive Free Fire BR Rank, CS Rank, and Lone Wolf with automated scheduling, officer reporting, and admin verification.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
